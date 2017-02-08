@@ -1,5 +1,5 @@
 //We use window.game because we want it to be accessible from everywhere
-window.game = new Phaser.Game(800, 600, Phaser.AUTO);
+window.game = new Phaser.Game(20*16, 15*16, Phaser.AUTO);
 
 game.globals = {
     //Add variables here that you want to access globally
