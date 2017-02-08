@@ -20,6 +20,7 @@ module.exports = {
         game.load.tilemap('level', 'map.json', null, Phaser.Tilemap.TILED_JSON);
         game.load.image('water', 'assets/water.png');
         game.load.image('grass', 'assets/grass.png');
+        game.load.spritesheet('cursor', 'assets/cursor.png', 16, 16, 4);
     },
 
     create: function () {

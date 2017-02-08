@@ -1,6 +1,9 @@
 var MapManager = require('../levels/MapManager.js');
+var Cursor = require('../actors/Cursor.js');
 
 var Play  = {
+
+    cursor : null,
 
     preload: function(){
         MapManager.createMap(game.width, game.height);
@@ -13,6 +16,11 @@ var Play  = {
         game.map.addTilesetImage('grass', 'grass');
         game.backgroundLayer = game.map.createLayer('backgroundLayer');
         game.backgroundLayer.resizeWorld();
+
+        this.cursor = new Cursor(game, (game.width/2) - (game.width/2)%16, (game.height/2) - (game.height/2)%16);
+//        game.add.existing(this.cursor);
+//        var blink = this.cursor.animations.add('blink');
+//        this.cursor.animations.play('blink', 4, true);
     },
 
     update: function(){
