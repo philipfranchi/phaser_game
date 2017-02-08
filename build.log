@@ -1,0 +1,217 @@
+beefy (v2.1.8) is listening on http://127.0.0.1:9966
+200   98ms       247B  /
+200  171ms       247B  /
+200  245ms   791.36KB  /src/vendor/phaser.min.js
+200  315ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200  224ms   791.36KB  /src/vendor/phaser.min.js
+200   17ms       442B  /assets/loading.png
+200   13ms       147B  /assets/progress_bar_bg.png
+200   10ms       150B  /assets/progress_bar_fg.png
+200  235ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   16ms       442B  /assets/loading.png
+200    7ms       147B  /assets/progress_bar_bg.png
+200    6ms       150B  /assets/progress_bar_fg.png
+200   16ms       247B  /
+200   11ms   791.36KB  /src/vendor/phaser.min.js
+200   30ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   15ms       247B  /
+200   12ms   791.36KB  /src/vendor/phaser.min.js
+200   24ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    6ms       442B  /assets/loading.png
+200    4ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200    7ms       442B  /assets/loading.png
+200    4ms       147B  /assets/progress_bar_bg.png
+200    3ms       150B  /assets/progress_bar_fg.png
+200   12ms       247B  /
+200   11ms   791.36KB  /src/vendor/phaser.min.js
+200   26ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   13ms       442B  /assets/loading.png
+200    8ms       147B  /assets/progress_bar_bg.png
+200    3ms       150B  /assets/progress_bar_fg.png
+200   14ms       247B  /
+200   16ms   791.36KB  /src/vendor/phaser.min.js
+200   27ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   16ms       442B  /assets/loading.png
+200    9ms       147B  /assets/progress_bar_bg.png
+200    4ms       150B  /assets/progress_bar_fg.png
+200   23ms       247B  /
+200   16ms   791.36KB  /src/vendor/phaser.min.js
+200   35ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   19ms       442B  /assets/loading.png
+200   11ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   21ms       247B  /
+200   18ms   791.36KB  /src/vendor/phaser.min.js
+200   30ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   29ms       442B  /assets/loading.png
+200   13ms       147B  /assets/progress_bar_bg.png
+200    5ms       150B  /assets/progress_bar_fg.png
+200   23ms       247B  /
+200   26ms   791.36KB  /src/vendor/phaser.min.js
+200   41ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    1ms       442B  /assets/loading.png
+200    8ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   18ms       247B  /
+200   15ms   791.36KB  /src/vendor/phaser.min.js
+200   27ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   10ms       442B  /assets/loading.png
+200    7ms       147B  /assets/progress_bar_bg.png
+200    5ms       150B  /assets/progress_bar_fg.png
+200   24ms       247B  /
+200   28ms   791.36KB  /src/vendor/phaser.min.js
+200   40ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   13ms       147B  /assets/progress_bar_bg.png
+200   21ms       442B  /assets/loading.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   16ms       247B  /
+200   12ms   791.36KB  /src/vendor/phaser.min.js
+200   27ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   11ms       442B  /assets/loading.png
+200    7ms       147B  /assets/progress_bar_bg.png
+200    4ms       150B  /assets/progress_bar_fg.png
+200   23ms       247B  /
+200   12ms   791.36KB  /src/vendor/phaser.min.js
+200   21ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   11ms       442B  /assets/loading.png
+200    6ms       147B  /assets/progress_bar_bg.png
+200    1ms       150B  /assets/progress_bar_fg.png
+200   13ms       247B  /
+200   17ms   791.36KB  /src/vendor/phaser.min.js
+200   39ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   13ms       442B  /assets/loading.png
+200    8ms       147B  /assets/progress_bar_bg.png
+200    4ms       150B  /assets/progress_bar_fg.png
+200   15ms       247B  /
+200   17ms   791.36KB  /src/vendor/phaser.min.js
+200   29ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   12ms       442B  /assets/loading.png
+200    5ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   15ms       247B  /
+200   13ms   791.36KB  /src/vendor/phaser.min.js
+200   30ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   31ms       442B  /assets/loading.png
+200   27ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   20ms       247B  /
+200   13ms   791.36KB  /src/vendor/phaser.min.js
+200   20ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   11ms       442B  /assets/loading.png
+200    5ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   16ms       247B  /
+200   12ms   791.36KB  /src/vendor/phaser.min.js
+200   25ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    8ms       442B  /assets/loading.png
+200    6ms       147B  /assets/progress_bar_bg.png
+200    1ms       150B  /assets/progress_bar_fg.png
+200   12ms       247B  /
+200    4ms   791.36KB  /src/vendor/phaser.min.js
+200   26ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   13ms       442B  /assets/loading.png
+200    9ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   20ms       247B  /
+200   14ms   791.36KB  /src/vendor/phaser.min.js
+200   21ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   10ms       442B  /assets/loading.png
+200    5ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   16ms       247B  /
+200   17ms   791.36KB  /src/vendor/phaser.min.js
+200   28ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   13ms       442B  /assets/loading.png
+200    9ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   16ms       247B  /
+200   21ms   791.36KB  /src/vendor/phaser.min.js
+200   30ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   10ms       442B  /assets/loading.png
+200    7ms       147B  /assets/progress_bar_bg.png
+200    7ms       150B  /assets/progress_bar_fg.png
+200   14ms       247B  /
+200   19ms   791.36KB  /src/vendor/phaser.min.js
+200   29ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    7ms       442B  /assets/loading.png
+200    5ms       147B  /assets/progress_bar_bg.png
+200    1ms       150B  /assets/progress_bar_fg.png
+200   11ms       247B  /
+200    9ms   791.36KB  /src/vendor/phaser.min.js
+200   17ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    5ms       147B  /assets/progress_bar_bg.png
+200    1ms       150B  /assets/progress_bar_fg.png
+200    8ms       442B  /assets/loading.png
+200   13ms       247B  /
+200   13ms   791.36KB  /src/vendor/phaser.min.js
+200   22ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    1ms       442B  /assets/loading.png
+200    4ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200    7ms       247B  /
+200   10ms   791.36KB  /src/vendor/phaser.min.js
+200   20ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    8ms       442B  /assets/loading.png
+200    5ms       147B  /assets/progress_bar_bg.png
+200    1ms       150B  /assets/progress_bar_fg.png
+200   17ms       247B  /
+200   13ms   791.36KB  /src/vendor/phaser.min.js
+200   35ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    9ms       442B  /assets/loading.png
+200    4ms       147B  /assets/progress_bar_bg.png
+200    1ms       150B  /assets/progress_bar_fg.png
+200   13ms       247B  /
+200   16ms   791.36KB  /src/vendor/phaser.min.js
+200   24ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   13ms       442B  /assets/loading.png
+200    7ms       147B  /assets/progress_bar_bg.png
+200    4ms       150B  /assets/progress_bar_fg.png
+200   10ms       247B  /
+200   13ms   791.36KB  /src/vendor/phaser.min.js
+200   23ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   11ms       442B  /assets/loading.png
+200    6ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   18ms       247B  /
+200   15ms   791.36KB  /src/vendor/phaser.min.js
+200   27ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    9ms       442B  /assets/loading.png
+200    7ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   14ms       247B  /
+200   19ms   791.36KB  /src/vendor/phaser.min.js
+200   28ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   12ms       442B  /assets/loading.png
+200    6ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   11ms       247B  /
+200   14ms   791.36KB  /src/vendor/phaser.min.js
+200   24ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   10ms       442B  /assets/loading.png
+200    7ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   14ms       247B  /
+200   14ms   791.36KB  /src/vendor/phaser.min.js
+200   24ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    1ms       442B  /assets/loading.png
+200   11ms       147B  /assets/progress_bar_bg.png
+200    1ms       150B  /assets/progress_bar_fg.png
+200   15ms       247B  /
+200   14ms   791.36KB  /src/vendor/phaser.min.js
+200   24ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    1ms       442B  /assets/loading.png
+200    4ms       147B  /assets/progress_bar_bg.png
+200    1ms       150B  /assets/progress_bar_fg.png
+200   17ms       247B  /
+200   13ms   791.36KB  /src/vendor/phaser.min.js
+200   24ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200   10ms       442B  /assets/loading.png
+200    5ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
+200   15ms       247B  /
+200   14ms   791.36KB  /src/vendor/phaser.min.js
+200   20ms     7.68KB  /bundle.js ➞ ./node_modules/browserify ./src/game.js -d
+200    9ms       442B  /assets/loading.png
+200    6ms       147B  /assets/progress_bar_bg.png
+200    2ms       150B  /assets/progress_bar_fg.png
