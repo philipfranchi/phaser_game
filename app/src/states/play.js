@@ -7,10 +7,9 @@ var Play  = {
     cursors : undefined,
 
     preload: function(){
-        var map = new MapManager(game.width*3, game.height*3, 16);
-        map.createMap();
-        var y = map.prettyCSV();
-        game.load.tilemap('map', null, y, Phaser.Tilemap.CSV);
+        var mapMan = new MapManager(game.width, game.height, 16);
+        mapMan.createMap();
+        game.load.tilemap('map', null, mapMan.toCSV(), Phaser.Tilemap.CSV);
     },
 
     create: function(){

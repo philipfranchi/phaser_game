@@ -17,10 +17,7 @@ module.exports = {
     preload: function () {
         this.loadingLabel();
         //Add here all the assets that you need to game.load
-        game.load.tilemap('level', 'map.json', null, Phaser.Tilemap.TILED_JSON);
-        game.load.image('water', 'assets/water.png');
-        game.load.image('grass', 'assets/grass.png');
-        game.load.image('csv-tiles', 'assets/test-sheet.png');
+        game.load.image('csv-tiles', 'assets/test-sheet1.png');
 
         game.load.spritesheet('cursor', 'assets/cursor.png', 16, 16, 4);
     },
